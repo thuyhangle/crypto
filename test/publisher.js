@@ -1,7 +1,7 @@
 
 var pubnub = new PubNub({
     publishKey:   'pub-c-963342c0-7b70-468e-aada-84a86ad5d532',
-    subscribeKey: 'pub-c-963342c0-7b70-468e-aada-84a86ad5d532'
+    subscribeKey: 'sub-c-96b25e44-3fb7-11e9-99ed-dea01fda7778'
   });
 
 var xhr = new XMLHttpRequest();
